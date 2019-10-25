@@ -1,4 +1,4 @@
-# tinder_linkedin
+# MixUP
 
 A new Flutter project.
 
